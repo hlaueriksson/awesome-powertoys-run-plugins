@@ -1,30 +1,24 @@
-# Awesome Powertoys Run Plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome PowerToys Run Plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<!-- omit in toc -->
 
-> A curated list of &lt;insert awesome stuff&gt;
+> A curated list of PowerToys Run plugins and resources
 
+PowerToys Run is a quick launcher for Windows. It is open-source and modular for additional plugins.
 
-## Contents
+## Contents<!-- omit in toc -->
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Official](#official)
+- [Plugins](#plugins)
+- [Resources](#resources)
 
+## Official
 
-## Section
+- [Website](https://docs.microsoft.com/en-us/windows/powertoys/run)
+- [Repository](https://github.com/microsoft/PowerToys)
 
-About this section. Optional. Keep this short and focus on the list.
+## Plugins
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Resources
 
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Contribute
+## Contribute<!-- omit in toc -->
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
