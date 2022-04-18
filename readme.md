@@ -17,6 +17,8 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 ## Plugins
 
+- [Guid](https://github.com/skttl/ptrun-guid) - Guid generator.
+
 ## Resources
 
 ## Contribute<!-- omit in toc -->
