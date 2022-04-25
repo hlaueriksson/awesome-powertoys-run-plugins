@@ -19,6 +19,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 - [Guid](https://github.com/skttl/ptrun-guid) - Guid generator.
 - [GEmojiSharp](https://github.com/hlaueriksson/GEmojiSharp#gemojisharppowertoysrun-) - Find and copy GitHub Emoji to the clipboard.
+- [Everything](https://github.com/lin-ycv/EverythingPowerToys) - Locate files and folders by name instantly with Everything.
 
 ## Resources
 
