@@ -24,6 +24,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [AltVNatives](https://github.com/zziger/altv-powertoys-run-natives) - Search through alt:V NativeDB.
 - [Translater](https://github.com/N0I0C0K/PowerToysRun.Plugin.Translater) - Text translation plugin based on Youdao Translation.
 - [Winget](https://github.com/bostrot/PowerToysRunPluginWinget) - Install and delete Windows packages with Winget.
+- [Lorem](https://github.com/dandn9/prun-lorem) - Generate lorem ipsum text into your clipboard.
 
 ## Resources
 
