@@ -26,6 +26,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Winget](https://github.com/bostrot/PowerToysRunPluginWinget) - Install and delete Windows packages with Winget.
 - [Lorem](https://github.com/dandn9/prun-lorem) - Generate lorem ipsum text into your clipboard.
 - [TOTP](https://github.com/KawaiiZapic/PowertoysRunTOTP) - Copy your time-based two factor verify code to clipboard.
+- [Scoop](https://github.com/Quriz/PowerToysRunScoop) - Search and install Windows packages with Scoop.
 
 ## Resources
 
