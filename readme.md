@@ -4,6 +4,9 @@
 
 PowerToys Run is a quick launcher for Windows. It is open-source and modular for additional plugins.
 
+> [!NOTE]
+> Please read the [security](security.md) policy before installing any community plugins.
+
 ## Contents<!-- omit in toc -->
 
 - [Official](#official)
@@ -26,7 +29,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Lorem](https://github.com/dandn9/prun-lorem) - Generate lorem ipsum text into your clipboard.
 - [TOTP](https://github.com/KawaiiZapic/PowertoysRunTOTP) - Copy your time-based two factor verify code to clipboard.
 - [Scoop](https://github.com/Quriz/PowerToysRunScoop) - Search and install Windows packages with Scoop.
-- [InputTyper](https://github.com/CoreyHayward/PowerToys-Run-InputTyper) - Types the input text as if sent from a keyboard. 
+- [InputTyper](https://github.com/CoreyHayward/PowerToys-Run-InputTyper) - Types the input text as if sent from a keyboard.
 
 ## Resources
 
