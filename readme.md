@@ -31,9 +31,9 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Scoop](https://github.com/Quriz/PowerToysRunScoop) - Search and install Windows packages with Scoop.
 - [InputTyper](https://github.com/CoreyHayward/PowerToys-Run-InputTyper) - Types the input text as if sent from a keyboard.
 - [CurrencyConverter](https://github.com/Advaith3600/PowerToys-Run-Currency-Converter) - Convert real and crypto currencies quickly.
-- [EdgeFavorite](https://github.com/davidegiacometti/PowerToys-Run-EdgeFavorite) - Open Microsoft Edge favorites.
+- [Edge Favorite](https://github.com/davidegiacometti/PowerToys-Run-EdgeFavorite) - Open Microsoft Edge favorites.
 - [GitKraken](https://github.com/davidegiacometti/PowerToys-Run-GitKraken) - Open GitKraken repositories.
-- [VisualStudio](https://github.com/davidegiacometti/PowerToys-Run-VisualStudio) - Open Visual Studio recents.
+- [Visual Studio](https://github.com/davidegiacometti/PowerToys-Run-VisualStudio) - Open Visual Studio recents.
 
 ## Resources
 
