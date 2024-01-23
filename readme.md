@@ -31,6 +31,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Scoop](https://github.com/Quriz/PowerToysRunScoop) - Search and install Windows packages with Scoop.
 - [InputTyper](https://github.com/CoreyHayward/PowerToys-Run-InputTyper) - Types the input text as if sent from a keyboard.
 - [CurrencyConverter](https://github.com/Advaith3600/PowerToys-Run-Currency-Converter) - Convert real and crypto currencies quickly. 
+- [ClipboardManager](https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager) - Search and paste items from the clipboard history.
 
 ## Resources
 
