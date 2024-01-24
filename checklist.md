@@ -56,7 +56,9 @@ Unnecessary files in the zip:
 
 ## Folder
 
-The plugin folder should have the same name as the plugin, and should not contain spaces.
+The plugin folder should have the same name as the plugin.
+
+The name should be in `PascalCase`, i.e. without spaces or punctuation and with capitalized words.
 
 Examples:
 
@@ -68,7 +70,7 @@ Examples:
 
 In other words, the plugin folder name should match:
 
-1. The name, without spaces, in the `plugin.json` file:
+1. The name in the `plugin.json` file:
    - `"Name": "InputTyper"`
 2. The last part of the assembly name:
    - `Community.PowerToys.Run.Plugin.InputTyper`
@@ -77,9 +79,12 @@ Community plugins are located here:
 
 - `%LocalAppData%\Microsoft\PowerToys\PowerToys Run\Plugins`
 
-For reference, the official plugins are located here:
+For reference, the official plugins are located in one of these places:
 
-- `C:\Program Files\PowerToys\RunPlugins\`
+- `C:\Program Files\PowerToys\RunPlugins`
+  - Machine wide installation of PowerToys
+- `%LocalAppData%\PowerToys\RunPlugins`
+  - Per user installation of PowerToys
 
 ## Action Keyword
 
@@ -113,6 +118,7 @@ Examples:
 
 Help new users with instructions for:
 
+- Requirements
 - Installation
 - Usage
 - Configuration
