@@ -40,4 +40,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 ## Contribute<!-- omit in toc -->
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome!
+
+1. First read the [community plugin checklist](checklist.md)
+2. Then read the [contribution guidelines](contributing.md)
