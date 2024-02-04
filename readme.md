@@ -35,6 +35,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [GitKraken](https://github.com/davidegiacometti/PowerToys-Run-GitKraken) - Open GitKraken repositories.
 - [Visual Studio](https://github.com/davidegiacometti/PowerToys-Run-VisualStudio) - Open Visual Studio recents.
 - [ClipboardManager](https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager) - Search and paste items from the clipboard history.
+- [GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) - Search and open GitHub repositories.
 
 ## Resources
 
