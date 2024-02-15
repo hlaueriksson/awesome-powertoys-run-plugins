@@ -45,6 +45,8 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 ## Articles
 
+- [Creating custom PowerToys Run plugins](https://conductofcode.io/post/creating-custom-powertoys-run-plugins/) - A step by step guide on how to create community plugins for PowerToys Run.
+
 ## Contribute<!-- omit in toc -->
 
 Contributions welcome!
