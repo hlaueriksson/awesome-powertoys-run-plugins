@@ -47,6 +47,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [ClipboardManager](https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager) - Search and paste items from the clipboard history.
 - [GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) - Search and open GitHub repositories.
 - [ProcessKiller](https://github.com/8LWXpg/PowerToysRun-ProcessKiller) - Kill a process by name or ID.
+- [WebSearchShortcut](https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut) - Quickly select a specific search engine to perform searches.
 
 ## Resources
 
