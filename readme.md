@@ -49,6 +49,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [ProcessKiller](https://github.com/8LWXpg/PowerToysRun-ProcessKiller) - Kill a process by name or ID.
 - [WebSearchShortcut](https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut) - Quickly select a specific search engine to perform searches.
 - [UnicodeInput](https://github.com/nathancartlidge/powertoys-run-unicode) - Enter Unicode characters with Agda-style shorthand.
+- [Timer](https://github.com/CoreyHayward/PowerToys-Run-Timer) - Set timers.
 
 ## Resources
 
