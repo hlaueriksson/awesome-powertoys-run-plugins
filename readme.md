@@ -54,6 +54,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 ## Resources
 
 - [Visual Studio Template](https://github.com/8LWXpg/PowerToysRun-PluginTemplate) - Unofficial template for Visual Studio.
+- [Community.PowerToys.Run.Plugins.Dependencies](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins.Dependencies) - Unofficial NuGet package that simplifies referencing all PowerToys Run Plugin dependencies.
 
 ## Articles
 
