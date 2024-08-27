@@ -59,6 +59,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Community.PowerToys.Run.Plugin.Templates](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Templates) - Unofficial `dotnet new` templates that simplify creating PowerToys Run plugin projects and solutions.
 - [Community.PowerToys.Run.Plugin.Update](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Update) - Unofficial NuGet package that adds support for updating PowerToys Run Plugins.
 - [Community.PowerToys.Run.Plugin.Abstractions](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Abstractions) - Unofficial NuGet package with abstractions for the `Wox` DLLs.
+- [ptr](https://github.com/8LWXpg/ptr) - A cli tool that helps manage plugins.
 
 ## Articles
 
