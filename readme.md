@@ -50,6 +50,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [WebSearchShortcut](https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut) - Quickly select a specific search engine to perform searches.
 - [UnicodeInput](https://github.com/nathancartlidge/powertoys-run-unicode) - Enter Unicode characters with Agda-style shorthand.
 - [Timer](https://github.com/CoreyHayward/PowerToys-Run-Timer) - Set timers.
+- [HexInspector](https://github.com/NaroZeol/PowerHexInspector) - Peek other forms of an input number.
 - [LocalLLM](https://github.com/Darkdriller/PowerToys-Run-LocalLLm) - Query LLM models locally through Ollama
 
 ## Resources
@@ -59,6 +60,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Community.PowerToys.Run.Plugin.Templates](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Templates) - Unofficial `dotnet new` templates that simplify creating PowerToys Run plugin projects and solutions.
 - [Community.PowerToys.Run.Plugin.Update](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Update) - Unofficial NuGet package that adds support for updating PowerToys Run Plugins.
 - [Community.PowerToys.Run.Plugin.Abstractions](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Abstractions) - Unofficial NuGet package with abstractions for the `Wox` DLLs.
+- [ptr](https://github.com/8LWXpg/ptr) - A cli tool that helps manage plugins.
 
 ## Articles
 
