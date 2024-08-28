@@ -51,6 +51,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [UnicodeInput](https://github.com/nathancartlidge/powertoys-run-unicode) - Enter Unicode characters with Agda-style shorthand.
 - [Timer](https://github.com/CoreyHayward/PowerToys-Run-Timer) - Set timers.
 - [HexInspector](https://github.com/NaroZeol/PowerHexInspector) - Peek other forms of an input number.
+- [Snippets](https://github.com/CoreyHayward/PowerToys-Run-Snippets) - Snippet manager allowing creation, deletion and insertion of text snippets.
 
 ## Resources
 
