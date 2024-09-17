@@ -72,3 +72,7 @@ Contributions welcome!
 
 1. First read the [community plugin checklist](checklist.md)
 2. Then read the [contribution guidelines](contributing.md)
+
+<!--
+npx awesome-lint https://github.com/hlaueriksson/awesome-powertoys-run-plugins
+-->
