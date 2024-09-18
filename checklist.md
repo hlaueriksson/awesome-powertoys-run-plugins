@@ -7,6 +7,7 @@
 - [ ] The website should be the URL to the GitHub repo for the plugin source code
 - [ ] The documentation should be helpful to new users
 - [ ] Distribute the plugin as an Asset via GitHub Releases
+- [ ] Validate the plugin with [`ptrun-lint`](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Lint)
 
 ## Zip
 
@@ -130,3 +131,9 @@ Distribute the plugin by attaching the `.zip` archive file to a GitHub Release.
 Examples:
 
 ✔️ <https://github.com/CoreyHayward/PowerToys-Run-InputTyper/releases/tag/v0.2.0>
+
+## Lint
+
+Run [`ptrun-lint`](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Lint) on the plugin and review the reported issues.
+
+The lint rules are codified from the guidelines in this checklist.
