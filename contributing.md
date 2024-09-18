@@ -4,14 +4,21 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 ---
 
+Is your plugin awesome?
+
+> Only awesome is awesome
+>
+> -- <cite>[The awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md#only-awesome-is-awesome)</cite>
+
 Ensure your pull request adheres to the following guidelines:
 
 - Don't open a Draft / WIP pull request while you work on the guidelines. A pull request should be 100% ready and should adhere to all the guidelines when you open it.
+- Wait at least 30 days after creating a plugin before submitting it, to give it a chance to mature.
 - If you submit a plugin that is similar to an existing plugin in the list, argue how it's better.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Suggested plugins should be tested and documented.
 - Make an individual pull request for each suggestion.
-- Use the following format: `[plugin](link) - Description.`
+- Use the following format: `[PluginName](link) - Description.`
 - Additions should be added to the bottom of the relevant category.
 - Link to the GitHub repo, not nuget.org or its website.
 - Keep descriptions short and simple, but descriptive.
@@ -25,9 +32,10 @@ Ensure your pull request adheres to the following guidelines:
 - The pull request should have a useful title and include a link to the plugin and why it should be included.
 - New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request.
 
-Thank you for your suggestions!
+Thanks for being awesome! 😎
 
+## Updating your Pull Request
 
-## Updating your PR
+Sometimes, a maintainer will ask you to edit your Pull Request before it is merged. This is normally due to spelling errors or because your PR didn't match the contribution guidelines.
 
-A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. There's no need to open a new PR, just edit the existing one. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) on the different ways you can update your PR so that we can merge it.
+[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request and the different ways you can do that.
