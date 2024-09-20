@@ -9,7 +9,7 @@
 ## Requirements for your pull request
 
 - [ ] You have read and understood the [Contribution Guidelines](https://github.com/hlaueriksson/awesome-powertoys-run-plugins/blob/main/contributing.md).
-- [ ] This pull request has a title in the format `Add [Name of Plugin]`.
+- [ ] This pull request has a title in the format `Add [PluginName]`.
   - ✅ `Add GEmojiSharp`
   - ❌ `Update readme.md`
   - ❌ `Adding GEmojiSharp`
@@ -29,7 +29,7 @@
 
 - [ ] **Has been around for at least 30 days.**<br>That means 30 days from either the first real commit or when it was open-sourced. Whatever is most recent.
 - [ ] Run [`ptrun-lint`](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Lint) on your plugin and fix the reported issues. If there are false-positives or things that cannot/shouldn't be fixed, please [report it](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Lint/issues/new).
-- [ ] Scan your plugin with [VirusTotal](https://www.virustotal.com) and make sure that no security vendors flagged your files as malicious
-- [ ] It's the result of hard work and the best I could possibly produce.<br>**If you have not put in considerable effort into your plugin, your pull request will be merged.**
-- [ ] Not a clone. Please search for existing submissions.
+- [ ] Scan your plugin with [VirusTotal](https://www.virustotal.com) and make sure that no security vendors flagged your files as malicious.
+- [ ] It's the result of hard work and the best I could possibly produce.<br>**If you have not put in considerable effort into your plugin, your pull request will not be merged.**
+- [ ] Not a clone. Before submitting, please verify whether a similar plugin has already been added to avoid duplicates.
 - [ ] Is awesome. Awesome lists are curations of the best, not everything.
