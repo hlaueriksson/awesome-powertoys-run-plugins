@@ -33,7 +33,6 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 - [GEmojiSharp](https://github.com/hlaueriksson/GEmojiSharp#gemojisharppowertoysrun) - Find and copy GitHub emoji.
 - [Everything](https://github.com/lin-ycv/EverythingPowerToys) - Find files and folders instantly with Everything.
-- [AltVNatives](https://github.com/zziger/altv-powertoys-run-natives) - Find Grand Theft Auto V script commands on alt:V NativeDB.
 - [PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) - Translate text with Youdao Translation.
 - [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) - Install and manage Windows packages with WinGet.
 - [Lorem](https://github.com/dxn-9/prun-lorem) - Generate lorem ipsum texts.
