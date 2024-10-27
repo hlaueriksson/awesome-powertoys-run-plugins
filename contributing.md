@@ -39,3 +39,19 @@ Thanks for being awesome! 😎
 Sometimes, a maintainer will ask you to edit your Pull Request before it is merged. This is normally due to spelling errors or because your PR didn't match the contribution guidelines.
 
 [Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request and the different ways you can do that.
+
+## Awesome mentioned badge
+
+The *Awesome PowerToys Run Plugins* list is now officially awesome, having been included in the main list as per [#3075](https://github.com/sindresorhus/awesome/pull/3075).
+
+If your plugin makes it onto this list, you can add a [badge](https://github.com/sindresorhus/awesome/blob/main/awesome.md#awesome-mentioned-badge) to your repository's README. It's a great way to show your users that your plugin has been featured in this awesome list. You can choose either the regular badge or the flat one.
+
+[![Mentioned in Awesome PowerToys Run Plugins](https://awesome.re/mentioned-badge.svg)](https://github.com/hlaueriksson/awesome-powertoys-run-plugins)
+[![Mentioned in Awesome PowerToys Run Plugins](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/hlaueriksson/awesome-powertoys-run-plugins)
+
+**Copy this markdown:**
+
+```md
+[![Mentioned in Awesome PowerToys Run Plugins](https://awesome.re/mentioned-badge.svg)](https://github.com/hlaueriksson/awesome-powertoys-run-plugins)
+[![Mentioned in Awesome PowerToys Run Plugins](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/hlaueriksson/awesome-powertoys-run-plugins)
+```
