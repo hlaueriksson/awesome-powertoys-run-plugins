@@ -42,7 +42,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [CurrencyConverter](https://github.com/Advaith3600/PowerToys-Run-Currency-Converter) - Convert traditional and cryptocurrency with the latest exchange rates.
 - [EdgeFavorite](https://github.com/davidegiacometti/PowerToys-Run-EdgeFavorite) - Open Microsoft Edge favorites.
 - [GitKraken](https://github.com/davidegiacometti/PowerToys-Run-GitKraken) - Open GitKraken repositories.
-- [Visual Studio](https://github.com/davidegiacometti/PowerToys-Run-VisualStudio) - Open recent solutions in Visual Studio.
+- [VisualStudio](https://github.com/davidegiacometti/PowerToys-Run-VisualStudio) - Open recent solutions in Visual Studio.
 - [ClipboardManager](https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager) - Search and paste from clipboard history.
 - [GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) - Open GitHub repositories.
 - [ProcessKiller](https://github.com/8LWXpg/PowerToysRun-ProcessKiller) - Kill Windows processes.
@@ -52,7 +52,6 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [HexInspector](https://github.com/NaroZeol/PowerHexInspector) - Convert numbers between bases.
 - [LocalLLM](https://github.com/Darkdriller/PowerToys-Run-LocalLLm) - Query local LLM models with Ollama.
 - [Universal Search Suggestions](https://github.com/Fefedu973/PowerToys-Run-Universal-Search-Suggestions-Plugin/) - Adds search suggestions when typing something.
-
 
 ## Resources
 
