@@ -31,6 +31,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 ## Plugins
 
+- [TabPort](https://github.com/cppakko/TabPort) - Manage Tabs in Browsers
 - [GEmojiSharp](https://github.com/hlaueriksson/GEmojiSharp#gemojisharppowertoysrun) - Find and copy GitHub emoji.
 - [Everything](https://github.com/lin-ycv/EverythingPowerToys) - Find files and folders instantly with Everything.
 - [PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) - Translate text with Youdao Translation.
