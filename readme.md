@@ -42,13 +42,13 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [CurrencyConverter](https://github.com/Advaith3600/PowerToys-Run-Currency-Converter) - Convert traditional and cryptocurrency with the latest exchange rates.
 - [EdgeFavorite](https://github.com/davidegiacometti/PowerToys-Run-EdgeFavorite) - Open Microsoft Edge favorites.
 - [GitKraken](https://github.com/davidegiacometti/PowerToys-Run-GitKraken) - Open GitKraken repositories.
-- [Visual Studio](https://github.com/davidegiacometti/PowerToys-Run-VisualStudio) - Open Visual Studio recents.
-- [ClipboardManager](https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager) - Search and paste items from the clipboard history.
-- [GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) - Search and open GitHub repositories.
-- [ProcessKiller](https://github.com/8LWXpg/PowerToysRun-ProcessKiller) - Kill a process by name or ID.
-- [WebSearchShortcut](https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut) - Quickly select a specific search engine to perform searches.
-- [UnicodeInput](https://github.com/nathancartlidge/powertoys-run-unicode) - Enter Unicode characters with Agda-style shorthand.
-- [Timer](https://github.com/CoreyHayward/PowerToys-Run-Timer) - Set timers.
+- [VisualStudio](https://github.com/davidegiacometti/PowerToys-Run-VisualStudio) - Open recent solutions in Visual Studio.
+- [ClipboardManager](https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager) - Search and paste from clipboard history.
+- [GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) - Open GitHub repositories.
+- [ProcessKiller](https://github.com/8LWXpg/PowerToysRun-ProcessKiller) - Kill Windows processes.
+- [WebSearchShortcut](https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut) - Search with predefined search engines.
+- [UnicodeInput](https://github.com/nathancartlidge/powertoys-run-unicode) - Find and copy Unicode characters with Agda-style shorthands.
+- [Timer](https://github.com/CoreyHayward/PowerToys-Run-Timer) - Set and manage timers.
 - [HexInspector](https://github.com/NaroZeol/PowerHexInspector) - Convert numbers between bases.
 - [LocalLLM](https://github.com/Darkdriller/PowerToys-Run-LocalLLm) - Query local LLM models with Ollama.
 - [SteamLauncher](https://github.com/KawaiiZapic/PowerToysSteamLauncher) - Launch any installed Steam game without creating a shortcut.
