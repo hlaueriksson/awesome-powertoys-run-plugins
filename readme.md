@@ -25,23 +25,22 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 ## Official
 
-- [Website](https://docs.microsoft.com/en-us/windows/powertoys/run)
+- [Website](https://learn.microsoft.com/en-us/windows/powertoys/run)
 - [Repository](https://github.com/microsoft/PowerToys)
-- [Microsoft Store](https://apps.microsoft.com/store/detail/XP89DCGQ3K6VLD)
+- [Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld)
 
 ## Plugins
 
-- [GEmojiSharp](https://github.com/hlaueriksson/GEmojiSharp#gemojisharppowertoysrun) - Find and copy GitHub Emoji to the clipboard.
-- [Everything](https://github.com/lin-ycv/EverythingPowerToys) - Locate files and folders by name instantly with Everything.
-- [AltVNatives](https://github.com/zziger/altv-powertoys-run-natives) - Search through alt:V NativeDB.
-- [Translater](https://github.com/N0I0C0K/PowerToysRun.Plugin.Translater) - Text translation plugin based on Youdao Translation.
-- [Winget](https://github.com/bostrot/PowerToysRunPluginWinget) - Install and delete Windows packages with Winget.
-- [Lorem](https://github.com/dandn9/prun-lorem) - Generate lorem ipsum text into your clipboard.
-- [TOTP](https://github.com/KawaiiZapic/PowertoysRunTOTP) - Copy your time-based two factor verify code to clipboard.
-- [Scoop](https://github.com/Quriz/PowerToysRunScoop) - Search and install Windows packages with Scoop.
-- [InputTyper](https://github.com/CoreyHayward/PowerToys-Run-InputTyper) - Types the input text as if sent from a keyboard.
-- [CurrencyConverter](https://github.com/Advaith3600/PowerToys-Run-Currency-Converter) - Convert real and crypto currencies quickly.
-- [Edge Favorite](https://github.com/davidegiacometti/PowerToys-Run-EdgeFavorite) - Open Microsoft Edge favorites.
+- [GEmojiSharp](https://github.com/hlaueriksson/GEmojiSharp#gemojisharppowertoysrun) - Find and copy GitHub emoji.
+- [Everything](https://github.com/lin-ycv/EverythingPowerToys) - Find files and folders instantly with Everything.
+- [PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) - Translate text with Youdao Translation.
+- [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) - Install and manage Windows packages with WinGet.
+- [Lorem](https://github.com/dxn-9/prun-lorem) - Generate lorem ipsum texts.
+- [TOTP](https://github.com/KawaiiZapic/PowertoysRunTOTP) - Copy time-based two factor verify codes.
+- [Scoop](https://github.com/Quriz/PowerToysRunScoop) - Install and manage Windows packages with Scoop.
+- [InputTyper](https://github.com/CoreyHayward/PowerToys-Run-InputTyper) - Type text as if sent from a keyboard.
+- [CurrencyConverter](https://github.com/Advaith3600/PowerToys-Run-Currency-Converter) - Convert traditional and cryptocurrency with the latest exchange rates.
+- [EdgeFavorite](https://github.com/davidegiacometti/PowerToys-Run-EdgeFavorite) - Open Microsoft Edge favorites.
 - [GitKraken](https://github.com/davidegiacometti/PowerToys-Run-GitKraken) - Open GitKraken repositories.
 - [Visual Studio](https://github.com/davidegiacometti/PowerToys-Run-VisualStudio) - Open Visual Studio recents.
 - [ClipboardManager](https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager) - Search and paste items from the clipboard history.
@@ -50,15 +49,18 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [WebSearchShortcut](https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut) - Quickly select a specific search engine to perform searches.
 - [UnicodeInput](https://github.com/nathancartlidge/powertoys-run-unicode) - Enter Unicode characters with Agda-style shorthand.
 - [Timer](https://github.com/CoreyHayward/PowerToys-Run-Timer) - Set timers.
+- [HexInspector](https://github.com/NaroZeol/PowerHexInspector) - Convert numbers between bases.
+- [LocalLLM](https://github.com/Darkdriller/PowerToys-Run-LocalLLm) - Query local LLM models with Ollama.
 - [SteamLauncher](https://github.com/KawaiiZapic/PowerToysSteamLauncher) - Launch any installed Steam game without creating a shortcut.
 
 ## Resources
 
-- [Visual Studio Template](https://github.com/8LWXpg/PowerToysRun-PluginTemplate) - Unofficial template for Visual Studio.
-- [Community.PowerToys.Run.Plugin.Dependencies](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Dependencies) - Unofficial NuGet package that simplifies referencing all PowerToys Run Plugin dependencies.
-- [Community.PowerToys.Run.Plugin.Templates](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Templates) - Unofficial `dotnet new` templates that simplify creating PowerToys Run plugin projects and solutions.
-- [Community.PowerToys.Run.Plugin.Update](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Update) - Unofficial NuGet package that adds support for updating PowerToys Run Plugins.
-- [Community.PowerToys.Run.Plugin.Abstractions](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Abstractions) - Unofficial NuGet package with abstractions for the `Wox` DLLs.
+- [Visual Studio Template](https://github.com/8LWXpg/PowerToysRun-PluginTemplate) - Visual Studio template for community plugins.
+- [Community.PowerToys.Run.Plugin.Dependencies](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Dependencies) - NuGet package with community plugin dependencies.
+- [Community.PowerToys.Run.Plugin.Templates](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Templates) - `dotnet new` templates for community plugins.
+- [Community.PowerToys.Run.Plugin.Update](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Update) - NuGet package with support for updating community plugins.
+- [Community.PowerToys.Run.Plugin.Abstractions](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Abstractions) - NuGet package with abstractions for community plugin dependencies.
+- [ptr](https://github.com/8LWXpg/ptr) - CLI tool for installing and managing community plugins.
 
 ## Articles
 
@@ -70,3 +72,7 @@ Contributions welcome!
 
 1. First read the [community plugin checklist](checklist.md)
 2. Then read the [contribution guidelines](contributing.md)
+
+<!--
+npx awesome-lint https://github.com/hlaueriksson/awesome-powertoys-run-plugins
+-->
