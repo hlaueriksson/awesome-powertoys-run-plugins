@@ -16,9 +16,10 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 > Please read the [security](security.md) policy before installing any community plugins.
 <!--lint enable no-undefined-references-->
 
-## Contents
+## Contents<!-- omit in toc -->
 
 - [Official](#official)
+- [Installation](#installation)
 - [Plugins](#plugins)
 - [Resources](#resources)
 - [Articles](#articles)
@@ -28,6 +29,13 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Website](https://learn.microsoft.com/en-us/windows/powertoys/run)
 - [Repository](https://github.com/microsoft/PowerToys)
 - [Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld)
+
+## Installation
+
+> [!TIP]
+> Install these awesome community plugins below, via the [Install](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Install) plugin ⬇️🔌📦
+
+- [Community.PowerToys.Run.Plugin.Install](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Install) - Install community PowerToys Run plugins from this awesome list.
 
 ## Plugins
 
@@ -74,7 +82,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Creating custom PowerToys Run plugins](https://conductofcode.io/post/creating-custom-powertoys-run-plugins/) - A step by step guide on how to create community plugins for PowerToys Run.
 - [How I developed the JohnnyDecimal plugin](https://blog.seguri.dev/posts/powertoys-run-johnnydecimal/) - A step by step guide on how the JohnnyDecimal community plugin was developed.
 
-## Contributing
+## Contributing<!-- omit in toc -->
 
 Contributions welcome!
 
