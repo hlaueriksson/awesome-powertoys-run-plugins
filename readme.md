@@ -11,11 +11,6 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 ![PowerToys Run](launcher-dark.png#gh-dark-mode-only)
 ![PowerToys Run](launcher-light.png#gh-light-mode-only)
 
-<!--lint disable no-undefined-references-->
-> [!NOTE]
-> Please read the [security](security.md) policy before installing any community plugins.
-<!--lint enable no-undefined-references-->
-
 ## Contents<!-- omit in toc -->
 
 - [Official](#official)
@@ -33,6 +28,11 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld)
 
 ## Installation
+
+<!--lint disable no-undefined-references-->
+> [!NOTE]
+> Please read the [security](security.md) policy before installing any community plugins.
+<!--lint enable no-undefined-references-->
 
 <!--lint disable double-link-->
 <!--lint disable no-undefined-references-->
