@@ -84,6 +84,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Community.PowerToys.Run.Plugin.Update](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Update) - NuGet package with support for updating community plugins.
 - [Community.PowerToys.Run.Plugin.Abstractions](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Abstractions) - NuGet package with abstractions for community plugin dependencies.
 - [ptr](https://github.com/8LWXpg/ptr) - CLI tool for installing and managing community plugins.
+- [Community.PowerToys.Run.Plugin.Lint](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Lint) - Linter for community plugins.
 
 ## Articles
 
