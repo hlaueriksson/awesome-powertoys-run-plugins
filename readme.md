@@ -57,6 +57,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Bang](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#bang) - Search websites with DuckDuckGo !Bangs.
 - [DenCode](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#dencode) - Encoding & Decoding.
 - [Dice](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#dice) - Roleplaying dice roller.
+- [Need](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#need) - Key-value store for important information.
 
 ## Resources
 
