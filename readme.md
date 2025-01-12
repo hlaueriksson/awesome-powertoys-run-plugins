@@ -26,16 +26,22 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 ## Official
 
+<!--lint disable double-link-->
 - [Website](https://learn.microsoft.com/en-us/windows/powertoys/run)
+<!--lint enable double-link-->
 - [Repository](https://github.com/microsoft/PowerToys)
 - [Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld)
 
 ## Installation
 
+<!--lint disable double-link-->
+<!--lint disable no-undefined-references-->
 > [!TIP]
 > Install these awesome community plugins below, via the [Install](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Install) plugin ⬇️🔌📦
+<!--lint enable no-undefined-references-->
 
 - [Community.PowerToys.Run.Plugin.Install](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Install) - Install community PowerToys Run plugins from this awesome list.
+<!--lint enable double-link-->
 
 ## Plugins
 
@@ -62,11 +68,13 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [JohnnyDecimal](https://github.com/seguri/PowerToys-Run-JohnnyDecimal) - Navigate through your JohnnyDecimal system.
 - [BrowserFavorite](https://github.com/Der-Penz/PowerToys-Run-BrowserFavorite) - Quickly open your Browser Bookmarks.
 - [Universal Search Suggestions](https://github.com/Fefedu973/PowerToys-Run-Universal-Search-Suggestions-Plugin/) - Adds search suggestions when typing something.
+<!--lint disable double-link-->
 - [Bang](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#bang) - Search websites with DuckDuckGo !Bangs.
 - [DenCode](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#dencode) - Encoding & Decoding.
 - [Dice](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#dice) - Roleplaying dice roller.
 - [Need](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#need) - Key-value store for important information.
 - [Twitch](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#twitch) - Browse, search and view streams on Twitch.
+<!--lint enable double-link-->
 
 ## Resources
 
@@ -82,7 +90,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Creating custom PowerToys Run plugins](https://conductofcode.io/post/creating-custom-powertoys-run-plugins/) - A step by step guide on how to create community plugins for PowerToys Run.
 - [How I developed the JohnnyDecimal plugin](https://blog.seguri.dev/posts/powertoys-run-johnnydecimal/) - A step by step guide on how the JohnnyDecimal community plugin was developed.
 
-## Contributing<!-- omit in toc -->
+## Contributing
 
 Contributions welcome!
 
