@@ -1,9 +1,11 @@
 # Awesome PowerToys Run Plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<!-- omit in toc -->
 
 <!--lint disable double-link-->
+
 [<img src="powertoys-logo.png" align="right" width="100">](https://learn.microsoft.com/en-us/windows/powertoys/run)
 
 > A curated list of [PowerToys Run](https://learn.microsoft.com/en-us/windows/powertoys/run) community plugins and resources
+
 <!--lint enable double-link-->
 
 PowerToys Run is a quick launcher for Windows. It is open-source and modular for additional plugins.
@@ -22,6 +24,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 ## Official
 
 <!--lint disable double-link-->
+
 - [Website](https://learn.microsoft.com/en-us/windows/powertoys/run)
 <!--lint enable double-link-->
 - [Repository](https://github.com/microsoft/PowerToys)
@@ -30,14 +33,18 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 ## Installation
 
 <!--lint disable no-undefined-references-->
+
 > [!NOTE]
 > Please read the [security](security.md) policy before installing any community plugins.
+
 <!--lint enable no-undefined-references-->
 
 <!--lint disable double-link-->
 <!--lint disable no-undefined-references-->
+
 > [!TIP]
 > Install these awesome community plugins below, via the [Install](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Install) plugin ⬇️🔌📦
+
 <!--lint enable no-undefined-references-->
 
 - [Community.PowerToys.Run.Plugin.Install](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Install) - Install community PowerToys Run plugins from this awesome list.
@@ -74,6 +81,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Dice](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#dice) - Roleplaying dice roller.
 - [Need](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#need) - Key-value store for important information.
 - [Twitch](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#twitch) - Browse, search and view streams on Twitch.
+- [SVGL](https://github.com/SameerJS6/powertoys-svgl) - Browse, search, and copy tech company logos in SVG format.
 <!--lint enable double-link-->
 
 ## Resources
