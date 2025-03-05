@@ -73,6 +73,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Dice](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#dice) - Roleplaying dice roller.
 - [Need](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#need) - Key-value store for important information.
 - [Twitch](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#twitch) - Browse, search and view streams on Twitch.<!--lint enable double-link-->
+- [SVGL](https://github.com/SameerJS6/powertoys-svgl) - Browse, search, and copy SVG logos via svgl.
 
 ## Resources
 
