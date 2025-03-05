@@ -26,9 +26,9 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 <!--lint disable double-link-->
 
 - [Website](https://learn.microsoft.com/en-us/windows/powertoys/run)
-<!--lint enable double-link-->
 - [Repository](https://github.com/microsoft/PowerToys)
 - [Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld)
+<!--lint enable double-link-->
 
 ## Installation
 
@@ -74,8 +74,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [LocalLLM](https://github.com/Darkdriller/PowerToys-Run-LocalLLm) - Query local LLM models with Ollama.
 - [JohnnyDecimal](https://github.com/seguri/PowerToys-Run-JohnnyDecimal) - Navigate through your JohnnyDecimal system.
 - [BrowserFavorite](https://github.com/Der-Penz/PowerToys-Run-BrowserFavorite) - Quickly open your Browser Bookmarks.
-- [Universal Search Suggestions](https://github.com/Fefedu973/PowerToys-Run-Universal-Search-Suggestions-Plugin/) - Adds search suggestions when typing something.
-<!--lint disable double-link-->
+- [Universal Search Suggestions](https://github.com/Fefedu973/PowerToys-Run-Universal-Search-Suggestions-Plugin/) - Adds search suggestions when typing something.<!--lint disable double-link-->
 - [Bang](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#bang) - Search websites with DuckDuckGo !Bangs.
 - [DenCode](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#dencode) - Encoding & Decoding.
 - [Dice](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#dice) - Roleplaying dice roller.
@@ -83,6 +82,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Twitch](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#twitch) - Browse, search and view streams on Twitch.
 - [SVGL](https://github.com/SameerJS6/powertoys-svgl) - Browse, search, and copy tech company logos in SVG format.
 <!--lint enable double-link-->
+- [Twitch](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#twitch) - Browse, search and view streams on Twitch.<!--lint enable double-link-->
 
 ## Resources
 
