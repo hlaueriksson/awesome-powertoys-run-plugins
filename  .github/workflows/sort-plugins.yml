@@ -1,0 +1,32 @@
+name: 🔠 Plugin Sorter Bot
+
+on:
+  pull_request:
+    paths:
+      - 'readme.md'
+
+jobs:
+  sort_plugins:
+    name: Sort and clean plugins
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🧾 Checkout repository
+        uses: actions/checkout@v3
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 🔠 Run sorting script
+        run: |
+          python .github/scripts/sort_plugins.py
+
+      - name: 📤 Commit sorted readme.md
+        run: |
+          git config user.name "plugin-sorter-bot"
+          git config user.email "plugin-sorter-bot@users.noreply.github.com"
+          git add readme.md
+          git diff --cached --quiet || git commit -m "🤖 Auto-sort Plugins section in readme.md"
+          git push
