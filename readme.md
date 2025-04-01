@@ -74,6 +74,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [VisualStudio](https://github.com/davidegiacometti/PowerToys-Run-VisualStudio) - Open recent solutions in Visual Studio.
 - [WebSearchShortcut](https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut) - Search with predefined search engines.
 - [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) - Install and manage Windows packages with WinGet.
+- [Weather](https://github.com/ruslanlap/PowerToysRun-Weather) - Get detailed weather information for locations worldwide.
 
 ## Resources
 
