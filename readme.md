@@ -18,6 +18,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Plugins](#plugins)
 - [Resources](#resources)
 - [Articles](#articles)
+- [Contributing](#contributing)
 
 ## Official
 
@@ -74,6 +75,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Need](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#need) - Key-value store for important information.
 - [Twitch](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#twitch) - Browse, search and view streams on Twitch.<!--lint enable double-link-->
 - [SVGL](https://github.com/SameerJS6/powertoys-svgl) - Browse, search, and copy SVG logos via svgl.
+- [ChatOpenAI](https://github.com/Bennett-Yang/PowerToysRun_ChatOpenAI) - Ask your OpenAI API, get and copy the answer.
 
 ## Resources
 
