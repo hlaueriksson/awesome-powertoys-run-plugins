@@ -76,6 +76,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [SVGL](https://github.com/SameerJS6/powertoys-svgl) - Browse, search, and copy SVG logos via svgl.
 - [QuickNotes](https://github.com/ruslanlap/CommunityPowerToysRunPlugin-QuickNotes) - Create, manage, and search notes directly from PowerToys Run.
 - [SpeedTest](https://github.com/ruslanlap/PowerToysRun-SpeedTest) - Test your internet connection speed directly from PowerToys Run.
+- [VideoDownloader](https://github.com/ruslanlap/PowerToysRun-VideoDownloader) - Download videos from various platforms directly from PowerToys Run.
 
 ## Resources
 
