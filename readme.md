@@ -79,6 +79,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [VideoDownloader](https://github.com/ruslanlap/PowerToysRun-VideoDownloader) - Download videos from various platforms directly from PowerToys Run.
 - [Definition](https://github.com/ruslanlap/PowerToysRun-Definition) - Lookup word definitions, phonetics, and synonyms directly from PowerToys Run.
 
+
 ## Resources
 
 - [Visual Studio Template](https://github.com/8LWXpg/PowerToysRun-PluginTemplate) - Visual Studio template for community plugins.
