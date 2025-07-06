@@ -77,6 +77,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [QuickNotes](https://github.com/ruslanlap/CommunityPowerToysRunPlugin-QuickNotes) - Create, manage, and search notes directly from PowerToys Run.
 - [SpeedTest](https://github.com/ruslanlap/PowerToysRun-SpeedTest) - Test your internet connection speed directly from PowerToys Run.
 - [VideoDownloader](https://github.com/ruslanlap/PowerToysRun-VideoDownloader) - Download videos from various platforms directly from PowerToys Run.
+- [Definition](https://github.com/ruslanlap/PowerToysRun-Definition) - Lookup word definitions, phonetics, and synonyms directly from PowerToys Run.
 
 ## Resources
 
