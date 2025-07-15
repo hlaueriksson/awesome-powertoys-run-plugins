@@ -24,6 +24,7 @@ Ensure your pull request adheres to the following guidelines:
 - Keep descriptions short and simple, but descriptive.
 - Descriptions should not be marketing taglines.
 - Descriptions should follow sentence-case, where only the first word and proper nouns are capitalized.
+- Don't mention `PowerToys Run` in the description as it's implied.
 - Start the description with a capital and end with a full stop/period.
 - Don't start the description with `A` or `An`.
 - Check your spelling and grammar.
