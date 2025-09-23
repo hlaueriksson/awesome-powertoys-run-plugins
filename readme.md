@@ -83,7 +83,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [TemplateRunner](https://github.com/Heck-R/PowerToys.Run.Plugin.TemplateRunner) - Use simple commands and scripts as mini plugins.
 - [RandomGen](https://github.com/ruslanlap/PowerToysRun-RandomGen) - Generate various types of random data with a single keystroke.
 - [Hotkeys](https://github.com/ruslanlap/PowerToysRun-Hotkeys) - Find and copy keyboard shortcuts for any application.
-- [CheatSheets](https://github.com/ruslanlap/PowerToysRun-CheatSheets) - Find cheat sheets and command examples instantly.
+- [CheatSheets](https://github.com/ruslanlap/PowerToysRun-CheatSheets) - Find cheat sheets and command examples instantly 1000+ cheat sheets always at your fingertips.
 
 ## Resources
 
