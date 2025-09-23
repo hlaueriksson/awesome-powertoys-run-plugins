@@ -110,4 +110,3 @@ Contributions welcome!
 <!--
 npx awesome-lint https://github.com/hlaueriksson/awesome-powertoys-run-plugins
 -->
-
