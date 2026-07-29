@@ -82,6 +82,8 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [Hotkeys](https://github.com/ruslanlap/PowerToysRun-Hotkeys) - Find and copy keyboard shortcuts for various applications.
 - [TemplateRunner](https://github.com/Heck-R/PowerToys.Run.Plugin.TemplateRunner) - Use simple commands and scripts as mini plugins.
 
+- [QuickShell](https://github.com/tonythethompson/QuickShell) - Open saved project folders in any terminal; shares shortcuts with the Quick Shell Command Palette extension.
+
 ## Resources
 
 - [Visual Studio Template](https://github.com/8LWXpg/PowerToysRun-PluginTemplate) - Visual Studio template for community plugins.
